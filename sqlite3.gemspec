@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "sqlite3-static"
+  s.name = "sqlite3"
   s.version = "3.22.0"
   s.require_paths = ["lib"]
   s.authors = ["Jamis Buck", "Luis Lavena", "Aaron Patterson", "Jesús A. Álvarez"]
